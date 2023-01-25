@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import CarList from './components/carlist';
 import CarDetail from './components/cardetail';
